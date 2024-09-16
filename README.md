@@ -1,1 +1,1 @@
-## SVG-animated button created with HTML and CSS, inspired by the work of David Mráz.
+### SVG-animated button created with HTML and CSS, inspired by the work of David Mráz.
